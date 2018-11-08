@@ -1,0 +1,32 @@
+.feature {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  z-index: 50
+}
+
+.img-resized {
+  height: 150px;
+  width: 150px;
+}
+
+/*.feature .container {
+  width: 100%;
+  max-width: 1250px;
+  margin: 15px 40px;
+}*/
+
+.reduced-margin {
+  margin-bottom: 15px;
+}
+
+.feature h2 {
+  font-size: 24px;
+}
+
+.feature p {
+  color: #687788;
+  font-size: 16px;
+  font-weight: normal;
+  padding-left: 20px;
+  padding-right: 20px;
+}

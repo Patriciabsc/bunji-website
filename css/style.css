@@ -1,0 +1,33 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+@import url("components/card.css");
+@import url("components/navabar.css");
+@import url("components/logo.css");
+@import url("components/newsletter.css");
+@import url("components/feature.css");
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+.padded {
+  padding: 50px 0;
+  padding-bottom: 20px;
+}
+
+.wrapper-grey {
+  background: #F4F4F4;
+  border-radius: 10px;
+  margin: 20px;
+}
